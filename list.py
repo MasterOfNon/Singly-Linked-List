@@ -48,8 +48,7 @@ while op == 'Y':
     elif x==3:
         l.display()
     else:
-        print("invalid opinion")
-    op= 'n'
+       op= 'n'
         
         
     
